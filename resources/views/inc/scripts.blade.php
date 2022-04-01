@@ -1,0 +1,16 @@
+<script defer src="{{asset('assets/js/jquery.min.js')}}"></script>
+<script defer src="{{asset('assets/js/bootstrap.bundle.min.js')}}"></script>
+<script defer src="{{asset('assets/js/jquery.hoverIntent.min.js')}}"></script>
+<script defer src="{{asset('assets/js/jquery.waypoints.min.js')}}"></script>
+<script defer src="{{asset('assets/js/superfish.min.js')}}"></script>
+<script defer src="{{asset('assets/js/owl.carousel.min.js')}}"></script>
+<script defer src="{{asset('assets/js/bootstrap-input-spinner.js')}}"></script>
+<script defer src="{{asset('assets/js/jquery.plugin.min.js')}}"></script>
+<script defer src="{{asset('assets/js/jquery.magnific-popup.min.js')}}"></script>
+<script defer src="{{asset('assets/js/jquery.countdown.min.js')}}"></script>
+<script defer src="{{asset('assets/js/demos/demo-3.js')}}"></script>
+<script defer src="{{asset('assets/js/main.js')}}"></script>
+<script defer src="{{asset('dist/js/lightbox.min.js')}}"></script>
+<script defer src="{{asset('dist/js/lightbox-plus-jquery.min.js')}}"></script>
+<script defer src="{{asset('js/toast.js')}}"></script>
+<script defer src="{{asset('js/main.js')}}"></script>
